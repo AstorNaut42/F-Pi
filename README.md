@@ -1,4 +1,2 @@
-# INGT1001_elektro_gr18
-
-
-Github for Gruppe 18 fagnært prosjekt
+# F-Pi
+## A Raspberry Pi racing game for the Sense HAT
